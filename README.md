@@ -1,2 +1,1 @@
-# first-deno
-# host-deno
+# hosted javascript for deno runtime
