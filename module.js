@@ -1,3 +1,3 @@
-module.exports = function (msg) { 
+export const log = (msg) => { 
     console.log(msg);
 };
