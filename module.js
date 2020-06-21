@@ -1,3 +1,5 @@
-export const log = (msg) => { 
+const log = (msg) => { 
     console.log(msg);
 };
+
+export default log
